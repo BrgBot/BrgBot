@@ -1,6 +1,6 @@
-- Brg Bot
+- ShipCoin
 
 
 <!---
-Brg Army
+Brg 
 --->
